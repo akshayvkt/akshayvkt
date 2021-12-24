@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @akshayvkt
 - 👀 I’m interested in renewables,decentralized internet and the potential of AI.
 - 🌱 I’m currently trying to learn to code and as I go, I aspire to build some cool stuff.
-- ⚡ I'm an Energy Analyst at Tesla, where I'm working to improve📈 the performance of our huge residential solar fleet
+- ⚡ I'm an Energy Analyst at Tesla, where I'm working to improve📈 the performance of our residential solar+storage fleet.
 - 💞️ I’m looking to understand GitHub better and build more here.
 - 📫 I can be reached at (vc343 at cornell dot edu)
 
