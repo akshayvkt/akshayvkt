@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @akshayvkt
+# 👋 Hi, I’m Akshay
 - 👀 I’m interested in renewables,decentralized internet and the potential of AI.
 - 🌱 I’m currently trying to learn to code and as I go, I aspire to build some cool stuff.
 - ⚡ I'm an Energy Analyst at Tesla, where I'm working to improve📈 the performance of our residential solar+storage fleet.
