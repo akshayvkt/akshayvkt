@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Akshay
-- 👀 I’m interested in clean energy nd the potential of AI.
+- 👀 I’m interested in the potential of clean energy and AI towards creating a radically better future.
 - 🌱 I’m currently trying to learn to code and as I go, I aspire to keep building.
 - ⚡ I work as a Product Owner at SunPower, where I'm working to scale📈 our residential energy storage fleet to hundreds of thousands of homes. 
 - 💞️ I’m working to understand GitHub better and build more here.
