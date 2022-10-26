@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m Akshay 
+# 👋 Hello there, I’m Akshay, and 
 - 👀 I’m interested in the potential of clean energy and AI towards creating a radically better future.
 - 🌱 I’m currently learning to code and aspire to translate these learnings towards building products that are useful to a large number of people.
 - ⚡ I work as a Product Owner at SunPower, where I'm working to 📈 our residential energy storage fleet to hundreds of thousands of homes. 
