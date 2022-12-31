@@ -5,7 +5,7 @@
 - 💞️ Starting 10/12/2022, the goal is to code every single day. Towards a 🟩 GitHub. 
 - 📫 I can be reached at (vc343 at cornell dot edu)
 - 🌐 My webpage which was my first coding project is https://akshayvkt.github.io/
-- https://wakatime.com/badge/user/b0ee387a-f4eb-43cf-8b40-16f3aa41b5db.svg
+-  [![wakatime](https://wakatime.com/badge/user/b0ee387a-f4eb-43cf-8b40-16f3aa41b5db.svg)
 
 <!---
 akshayvkt/akshayvkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
