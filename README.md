@@ -5,7 +5,7 @@
 - 💞️ Starting 10/12/2022, the goal is to code every single day. Towards a 🟩 GitHub. 
 - 📫 I can be reached at (vc343 at cornell dot edu)
 - 🌐 My webpage which was my first coding project is https://akshayvkt.github.io/
-- Generate product documents in seconds here: https://productaize.vercel.app/
+- 📝 Go from product ideas to generating product documents in seconds here: https://productaize.vercel.app/
 
 ![wakatime](https://wakatime.com/badge/user/b0ee387a-f4eb-43cf-8b40-16f3aa41b5db.svg)
 
