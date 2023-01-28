@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Akshay 
 - 👀 I’m interested in the potential of clean energy and AI towards creating a radically better future.
-- - 💻 I’m learning to code, and the goal is to code as frequently as possible. Towards a 🟩 GitHub and to translate these learnings to building products that are cool and useful.
+- 💻 I’m learning to code, and the goal is to code as frequently as possible. Towards a 🟩 GitHub and to translate these learnings to building products      that are cool and useful.
 - ⚡ I work as a Product Owner at SunPower, where I'm working to 📈 our residential energy storage fleet to hundreds of thousands of homes. 
 - 📫 I can be reached at (vc343 at cornell dot edu)
 - 🌐 My webpage which was my first coding project is https://akshayvkt.github.io/
