@@ -3,7 +3,7 @@
 - 💻 I’m learning to code, and the goal is to code as frequently as possible. Towards a 🟩 GitHub and to translate these learnings to building products      that are cool and useful.
 - ⚡ I work as a Product Owner at SunPower, where I'm working to 📈 our residential energy storage fleet to hundreds of thousands of homes. 
 - 📫 I can be reached at (vc343 at cornell dot edu)
-- 🙏🏽 Ask any question or moral dilemma you have and let Bhagvad Gita help you out, just ask! https://gita-gpt.streamlit.app/
+- 🙏🏽 If you could speak to the Bhagavad Gita, what would you ask? https://gita-gpt.streamlit.app/
 - 📝 Go from product ideas to generating product documents in seconds here: https://productaize.vercel.app/
 - 🌐 My webpage which was my first coding project is https://akshayvkt.github.io/
 
