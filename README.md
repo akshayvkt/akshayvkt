@@ -4,7 +4,7 @@
 - ⚡ I work as a Product Owner at SunPower, where I'm working to 📈 our residential energy storage fleet to hundreds of thousands of homes. 
 - 📫 I can be reached at (vc343 at cornell dot edu)
 - 🙏🏽 If you could speak to the Bhagavad Gita, what would you ask? https://gita-gpt.streamlit.app/
-- 📝 Go from product ideas to generating product documents in seconds here: https://productaize.vercel.app/
+- 📝 Go from product ideas to generating product documents in seconds here: https://productaize.up.railway.app/
 - 🌐 My webpage which was my first coding project is https://akshayvkt.github.io/
 
 
