@@ -6,6 +6,7 @@
 - 📫 I can be reached at (vc343 at cornell dot edu)
 
 **Things I've built:**
+-  Have a voice-based to-and-fro conversation with Steve Jobs at https://huggingface.co/spaces/akshayvkt/talk-To-SteveJobs
 - 🙏🏽 If you could speak to the Bhagavad Gita, what would you ask? https://gita-gpt.streamlit.app/
 - 📝 Go from product ideas to generating product documents in seconds here: https://productaize.up.railway.app/
 
