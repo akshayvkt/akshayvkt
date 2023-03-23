@@ -1,7 +1,6 @@
 # 👋 Hi there, I’m Akshay 
 - 👀 I’m interested in the potential of clean energy and AI towards creating a radically better future.
 - 💻 I’m learning to code, and the goal is to code as frequently as possible. Towards a 🟩 GitHub and to translate these learnings to building products      that are cool and useful.
-- ⚡ I work as a Product Owner at SunPower, where I'm working to 📈 our residential energy storage fleet to hundreds of thousands of homes. 
 - 🌐 My webpage is https://akshayvkt.github.io/
 - 📫 I can be reached at (vc343 at cornell dot edu)
 
@@ -9,7 +8,6 @@
 -  Have a voice-based to-and-fro conversation with Steve Jobs at https://huggingface.co/spaces/akshayvkt/talk-To-SteveJobs
 - 🙏🏽 If you could ask the Bhagavad Gita a question, what would you ask? https://gita-gpt.streamlit.app/
 - 📝 Go from product ideas to generating product documents in seconds here: https://productaize.up.railway.app/
-
 
 
 ![wakatime](https://wakatime.com/badge/user/b0ee387a-f4eb-43cf-8b40-16f3aa41b5db.svg)
