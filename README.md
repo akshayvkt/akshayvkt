@@ -5,7 +5,7 @@
 - 📫 I can be reached at (vc343 at cornell dot edu)
 
 **Things I've built:**
--   Have a voice-based to-and-fro conversation with Steve Jobs at https://huggingface.co/spaces/akshayvkt/talk-To-SteveJobs
+
 - 🖼️ chatGPT-StableDiffusion plugin to let the LLM wordcel generate and edit images for you https://twitter.com/swyx/status/1645244964564250626
 - 🙏🏽 If you could ask the Bhagavad Gita a question, what would you ask? https://gita-gpt.streamlit.app/
 - 📝 Go from product ideas to generating product documents in seconds here: https://productaize.up.railway.app/
