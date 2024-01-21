@@ -6,6 +6,7 @@
 
 **Things I've built:**
 
+- 🖼️ Cando is an AI that remembers and helps you make progress towards your goals. https://cando-11bd85eccaa6.herokuapp.com/
 - 🖼️ chatGPT-StableDiffusion plugin to let the LLM wordcel generate and edit images for you https://twitter.com/swyx/status/1645244964564250626
 - 🙏🏽 If you could ask the Bhagavad Gita a question, what would you ask? https://gita-gpt.streamlit.app/
 - 📝 Go from product ideas to generating product documents in seconds here: https://productaize.up.railway.app/
