@@ -1,6 +1,5 @@
 # 👋 Hi there, I’m Akshay 
 - 👀 I’m interested in the potential of AI and clean energy towards creating a radically better future.
-- 💻 I’m learning to code, and the goal is to code as frequently as possible. Towards a 🟩 GitHub and to translate these learnings to building products      that are cool and useful.
 - 🌐 My webpage is https://akshayvkt.github.io/
 - 📫 I can be reached at (vc343 at cornell dot edu)
 
