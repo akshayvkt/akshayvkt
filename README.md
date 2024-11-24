@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Akshay 
 - 👀 I’m interested in the potential of AI and clean energy towards creating a radically better future.
 - 🌐 My webpage is https://akshayvkt.github.io/
-- 📫 I can be reached at (vc343 at cornell dot edu)
+- 📫 I can be reached on ~twitter~ [X](x.com/akshayvkt) or at (vc343 at cornell dot edu)
 
 ![wakatime](https://wakatime.com/badge/user/b0ee387a-f4eb-43cf-8b40-16f3aa41b5db.svg)
 
